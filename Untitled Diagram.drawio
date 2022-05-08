@@ -1,1 +1,134 @@
-<mxfile host="app.diagrams.net" modified="2022-05-07T12:21:12.090Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="18.0.1" etag="bW8j0k3R1I0RLdSFTbph" type="github"><diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">7ZjbctowEIafhksYH8LpEggkM22SmZK218JabDWy5MoCQ56+K1uObZzSZJqUdIYrW7/W2tWu9rOh48/i3ZUiSXQjKfCO59Bdx7/seJ7reT5ejLIvlNHQLYRQMWqNKmHJHsGKjlU3jELaMNRScs2SphhIISDQDY0oJbOm2VrypteEhNASlgHhbfU7ozqyu/CGlX4NLIxKz+5gXMzEpDS2O0kjQmVWk/x5x58pKXVxF+9mwE3yyrwUzy1+M/sUmAKhX/IAvd3tbz8Ng+Fo9TnbphRurvtd1y6zJXxjd3ynwiAiStuo9b5MRZqxmBOBo2mkY46ii7epRltbN4wA56Rij1JoUloEZsAEqPt9Yqy0ArNGyElqimOeae+ljAuUhl1Nsnu7AhmDVns0sbMXNs3lObPDrCrasDxTUa1g3tiKxB6U8GnlKpd4Y9OZD7+moO5WP8xx8xxOVsCLRzteX5AY8NLxBhwdTFcK70Kd77BQWCOng58bU35MEZeq40/yNiD7aqJ6vJ/IlGkmRW15jIsdOmi7JGbLCtYNjzFhXMvcZR/MoFj2wO28mHnyRqq1Tc7y3eZbv4c0NX5uGOegbDnLgHOL2eKukLkMSCXfrdcswJQ5tuBFLPkUrn3hwI7ECYdeIGO7KicBRNjGoJqtzZl4KIRIa0OHiamft8iyrEcVyXpMFobHG8KrnTLbQbUesNWesrjgRtNVQIXfY3je10xgfEXQC0o0MZVCPcXrBk9Pl2xRVGkXY1/0jc9cTrs+BjDqJSJEH1nENCwT3C46yhCvzcZTcoNOqO2gejeZBruRW2ZWyU2NsMCUVUq74Y7j4cVt6A2afdhv96E7eqYPh69vQxzWOvE10PNb0GvBDgSdmNcHjlZ4Yh/uI4YndorygvGyBGskm0Wfa8ZA8d1h1wC+ktm8Eqa5gBMmlywwdDwo4StrksqNCuCPRxnfl0SFcHTFC9t7tPEubNdYAcfW3TZfjWdw/g045zQjihpySqVYaqJss3OqiMhtiEDsqKMc9T4IRy9OylHXeTuUNsnZguu7ofTgi8Z95pPmWZSO/iVK+2eUNgwHZ5SeDKVbgoE53/C3m36OotdfULpkCnMmjzO0fB+emqGDkzJ03PX+d4Qefo1+TIYOzwxtGI7ODD0VQye8+AZ1LqWQOU/bHF3uUw0IE2dCYyaOgtT/ICAdnRSkb4LR9/vMHJ+UkShV/4Hm5rV/kv35Lw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-08T11:40:59.930Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="AA98_JA7tmWob9-Y9o_u" version="18.0.1" type="github">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
+    <mxGraphModel dx="1679" dy="342" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2XAYKvLxRCwGU7Vp0kS7-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="2XAYKvLxRCwGU7Vp0kS7-1" target="2XAYKvLxRCwGU7Vp0kS7-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2XAYKvLxRCwGU7Vp0kS7-1" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Start&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="230" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="2XAYKvLxRCwGU7Vp0kS7-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="2XAYKvLxRCwGU7Vp0kS7-33" target="2XAYKvLxRCwGU7Vp0kS7-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2XAYKvLxRCwGU7Vp0kS7-33" value="Sand toll Authority" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2XAYKvLxRCwGU7Vp0kS7-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="2XAYKvLxRCwGU7Vp0kS7-38" target="2XAYKvLxRCwGU7Vp0kS7-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2XAYKvLxRCwGU7Vp0kS7-38" value="John Sanders-Cybersecurity Analyst" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="345" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="2XAYKvLxRCwGU7Vp0kS7-40" value="" style="shape=actor;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="600" y="350" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2XAYKvLxRCwGU7Vp0kS7-61" value="" style="swimlane;startSize=20;horizontal=1;childLayout=flowLayout;flowOrientation=north;resizable=0;interRankCellSpacing=50;containerType=tree;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="500" y="520" width="270" height="307" as="geometry" />
+        </mxCell>
+        <mxCell id="2XAYKvLxRCwGU7Vp0kS7-62" value="Yearly Audit&amp;nbsp;" style="whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="2XAYKvLxRCwGU7Vp0kS7-61">
+          <mxGeometry x="85" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2XAYKvLxRCwGU7Vp0kS7-63" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Security- Make sure Surveillance cameras, softwares are safe using Testrail&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="2XAYKvLxRCwGU7Vp0kS7-61">
+          <mxGeometry x="20" y="131" width="100" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="2XAYKvLxRCwGU7Vp0kS7-64" value="" style="html=1;curved=1;rounded=0;fontSize=14;noEdgeStyle=1;orthogonal=1;" edge="1" parent="2XAYKvLxRCwGU7Vp0kS7-61" source="2XAYKvLxRCwGU7Vp0kS7-62" target="2XAYKvLxRCwGU7Vp0kS7-63">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="112.5" y="92" />
+              <mxPoint x="70" y="118" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2XAYKvLxRCwGU7Vp0kS7-65" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Risk&amp;nbsp; Assessment-&amp;nbsp; Reduce and protect against data breaches&amp;nbsp;&amp;nbsp;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="2XAYKvLxRCwGU7Vp0kS7-61">
+          <mxGeometry x="150" y="138.5" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2XAYKvLxRCwGU7Vp0kS7-66" value="" style="html=1;curved=1;rounded=0;fontSize=14;noEdgeStyle=1;orthogonal=1;" edge="1" parent="2XAYKvLxRCwGU7Vp0kS7-61" source="2XAYKvLxRCwGU7Vp0kS7-62" target="2XAYKvLxRCwGU7Vp0kS7-65">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="157.5" y="92" />
+              <mxPoint x="200" y="118" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2XAYKvLxRCwGU7Vp0kS7-67" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp;Conclusion- Overall safe and secure toll company&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="2XAYKvLxRCwGU7Vp0kS7-61">
+          <mxGeometry x="85" y="247" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2XAYKvLxRCwGU7Vp0kS7-68" value="" style="html=1;curved=1;rounded=0;fontSize=14;noEdgeStyle=1;orthogonal=1;" edge="1" parent="2XAYKvLxRCwGU7Vp0kS7-61" source="2XAYKvLxRCwGU7Vp0kS7-63" target="2XAYKvLxRCwGU7Vp0kS7-67">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="70" y="209" />
+              <mxPoint x="112.5" y="235" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2XAYKvLxRCwGU7Vp0kS7-69" value="" style="html=1;curved=1;rounded=0;fontSize=14;noEdgeStyle=1;orthogonal=1;" edge="1" parent="2XAYKvLxRCwGU7Vp0kS7-61" source="2XAYKvLxRCwGU7Vp0kS7-65" target="2XAYKvLxRCwGU7Vp0kS7-67">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="209" />
+              <mxPoint x="157.5" y="235" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2XAYKvLxRCwGU7Vp0kS7-76" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="400" y="640" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2XAYKvLxRCwGU7Vp0kS7-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="2XAYKvLxRCwGU7Vp0kS7-81">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="192.5" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2XAYKvLxRCwGU7Vp0kS7-81" value="" style="swimlane;startSize=20;horizontal=1;containerType=tree;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="525" width="425" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="2XAYKvLxRCwGU7Vp0kS7-82" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontSize=8;" edge="1" parent="2XAYKvLxRCwGU7Vp0kS7-81" source="2XAYKvLxRCwGU7Vp0kS7-86" target="2XAYKvLxRCwGU7Vp0kS7-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2XAYKvLxRCwGU7Vp0kS7-83" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontSize=8;" edge="1" parent="2XAYKvLxRCwGU7Vp0kS7-81" source="2XAYKvLxRCwGU7Vp0kS7-86" target="2XAYKvLxRCwGU7Vp0kS7-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2XAYKvLxRCwGU7Vp0kS7-84" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontSize=8;" edge="1" parent="2XAYKvLxRCwGU7Vp0kS7-81" source="2XAYKvLxRCwGU7Vp0kS7-86" target="2XAYKvLxRCwGU7Vp0kS7-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2XAYKvLxRCwGU7Vp0kS7-85" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontSize=8;" edge="1" parent="2XAYKvLxRCwGU7Vp0kS7-81" source="2XAYKvLxRCwGU7Vp0kS7-86" target="2XAYKvLxRCwGU7Vp0kS7-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2XAYKvLxRCwGU7Vp0kS7-86" value="Sand Toll Lanes" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=8;" vertex="1" parent="2XAYKvLxRCwGU7Vp0kS7-81">
+          <mxGeometry x="160" y="60" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2XAYKvLxRCwGU7Vp0kS7-87" value="3 lanes w/ no toll tags" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=8;" vertex="1" parent="2XAYKvLxRCwGU7Vp0kS7-81">
+          <mxGeometry x="300" y="40" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2XAYKvLxRCwGU7Vp0kS7-88" value="Toll&amp;nbsp; Ramp" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=8;" vertex="1" parent="2XAYKvLxRCwGU7Vp0kS7-81">
+          <mxGeometry x="321" y="86" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2XAYKvLxRCwGU7Vp0kS7-89" value="&amp;nbsp;3 Lanes w/prepaid toll tags" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=8;" vertex="1" parent="2XAYKvLxRCwGU7Vp0kS7-81">
+          <mxGeometry x="-10" y="40" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2XAYKvLxRCwGU7Vp0kS7-90" value="Toll Ramp" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=8;" vertex="1" parent="2XAYKvLxRCwGU7Vp0kS7-81">
+          <mxGeometry x="21" y="86" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2XAYKvLxRCwGU7Vp0kS7-107" value="Toll fees for plazas and ramps" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="10" y="820" width="365" height="507" as="geometry" />
+        </mxCell>
+        <mxCell id="2XAYKvLxRCwGU7Vp0kS7-108" value="" style="swimlane;startSize=20;fontSize=8;" vertex="1" parent="2XAYKvLxRCwGU7Vp0kS7-107">
+          <mxGeometry y="20" width="125" height="487" as="geometry" />
+        </mxCell>
+        <mxCell id="2XAYKvLxRCwGU7Vp0kS7-112" value="2 Axles w/ cash (notags)-$1.75&lt;br&gt;&lt;br&gt;2 Axles w/tag- $1.50&lt;br&gt;3 Axles- $3.50&lt;br&gt;4 Axles- $5.25&lt;br&gt;5 Axles- $7.00&lt;br&gt;6 Axles- $8.75" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="2XAYKvLxRCwGU7Vp0kS7-108">
+          <mxGeometry x="-2.5" y="20" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2XAYKvLxRCwGU7Vp0kS7-109" value="Lane 2" style="swimlane;startSize=20;fontSize=8;" vertex="1" parent="2XAYKvLxRCwGU7Vp0kS7-107">
+          <mxGeometry x="125" y="20" width="120" height="487" as="geometry" />
+        </mxCell>
+        <mxCell id="2XAYKvLxRCwGU7Vp0kS7-110" value="Ramps with or without tags" style="swimlane;startSize=20;fontSize=8;" vertex="1" parent="2XAYKvLxRCwGU7Vp0kS7-107">
+          <mxGeometry x="245" y="20" width="120" height="487" as="geometry" />
+        </mxCell>
+        <mxCell id="2XAYKvLxRCwGU7Vp0kS7-113" value="2 Axles Cash(no tags)- $1.25&lt;br&gt;2 Axles w/tags- $1.20&lt;br&gt;3 Axles- $2.75&lt;br&gt;4 Axles- $3.75&lt;br&gt;5 Axles- $5.00&lt;br&gt;6 Axles- $6.25" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="2XAYKvLxRCwGU7Vp0kS7-110">
+          <mxGeometry y="20" width="120" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
